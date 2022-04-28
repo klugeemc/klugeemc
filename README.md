@@ -1,16 +1,18 @@
-### Hi there 👋
+##Eae galerinha! 👋
 
-<!--
-**klugeemc/klugeemc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Clara, tenho 15 anos, faço aniversário dia 04/7 e atualmente estou cursando o curso técnico/integrado em informática para internet no CTISM.
+Sou de Agudo/RS, anteriormente estudava na E.M.E.F 7 de Setembro.
 
-Here are some ideas to get you started:
+####Meus hobbies
+* Ler
+* Ver RPG
+* Assistir séries e filmes
+* Jogar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  matérias do ensino médio, e informatica
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...  
-- 💬 Ask me about ...
-- 📫 How to reach me: ... Instagram: @klugee.mc
-- 😄 Pronouns: ...  ela/dela
-- ⚡ Fun fact:  gosto de ler
--->
+####Minhas redes sociais
+* [Instagram](https://www.instagram.com/klugee.mc/)
+* [Twitter](https://twitter.com/klugeemc)
+
+####Como me achar
+*Email acadêmico:* maria.kluge@acad.ufsm.br
+*Email pessoal:* klugemariaclara200@gmail.com
