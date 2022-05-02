@@ -1,6 +1,7 @@
 ## Eae galerinha! 👋
 
 ![ ](http://images2.memedroid.com/images/UPLOADED140/560ec4819c564.jpeg)
+
 Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em informática para internet no CTISM|UFSM.
 Sou de Agudo/RS, estudei minha vida toda na E.M.E.F 7 de Setembro.
 
