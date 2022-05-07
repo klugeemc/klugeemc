@@ -27,3 +27,5 @@ Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em info
 *Email pessoal:* klugemariaclara200@gmail.com
 
 ![](http://images2.memedroid.com/images/UPLOADED140/560ec4819c564.jpeg)
+
+> A ironia do destino realmente é uma divina comédia.
