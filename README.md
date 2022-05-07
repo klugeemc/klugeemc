@@ -16,15 +16,17 @@ Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em info
 * Sou gremista
 * Minha série favorita é Brooklyn Nine-nine
 * Meus livros favoritos são a saga Percy Jackson
-* Futuramente, pretendo cursar ciências da computação
+* Pretendo continuar da área da tecnologia, cursando Ciências da Computação ou algo semelhante
+* Me interesso muito também na área da saúde
 
 ### Minhas redes sociais
 * [Instagram](https://www.instagram.com/klugee.mc/)
 * [Twitter](https://twitter.com/klugeemc)
 
 ### Como me achar
-*Email acadêmico:* maria.kluge@acad.ufsm.br
-*Email pessoal:* klugemariaclara200@gmail.com
+Email acadêmico: maria.kluge@acad.ufsm.br
+
+Email pessoal: klugemariaclara200@gmail.com
 
 ![](http://images2.memedroid.com/images/UPLOADED140/560ec4819c564.jpeg)
 
