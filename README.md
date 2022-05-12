@@ -24,10 +24,10 @@ Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em info
 * [Twitter](https://twitter.com/klugeemc)
 
 ### Como me achar
-Email acadêmico: maria.kluge@acad.ufsm.br
+* Email acadêmico: maria.kluge@acad.ufsm.br
 
-Email pessoal: klugemariaclara200@gmail.com
+* Email pessoal: klugemariaclara200@gmail.com
 
-![](https://www.memecreator.org/static/images/memes/4491576.jpg)
+![](https://www.memecreator.org/static/images/memes/4491576.jpg) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYUhVcFXQRB5hcOwSuU9EixduY24Lghuakg&usqp=CAU)
 
 > A ironia do destino realmente é uma divina comédia.
