@@ -28,6 +28,6 @@ Email acadêmico: maria.kluge@acad.ufsm.br
 
 Email pessoal: klugemariaclara200@gmail.com
 
-![](http://images2.memedroid.com/images/UPLOADED140/560ec4819c564.jpeg)
+![](https://www.memecreator.org/static/images/memes/4491576.jpg)
 
 > A ironia do destino realmente é uma divina comédia.
