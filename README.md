@@ -2,8 +2,11 @@
 
 ![](http://pa1.narvii.com/6767/723fb59181b6fe8e6c0bd07de086e385b9c20d2c_00.gif)
 
+![](http://pa1.narvii.com/6767/723fb59181b6fe8e6c0bd07de086e385b9c20d2c_00.gif)
+
 Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em informática para internet no CTISM|UFSM, sou de Agudo/RS.
 
+<<<<<<< HEAD
 ---------------------------------------------
 ### Meus hobbies💕
 * Ler
@@ -11,6 +14,14 @@ Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em info
 * Assistir séries e filmes
 * Jogar
 * Tomar café
+=======
+### Meus hobbies
+* Ler📕
+* Assistir séries e filmes📺
+* Jogar🎮
+* Tomar café☕
+* Assistir RPG🌹👀
+>>>>>>> 362a3f39b03b9316f4800f6ef87b3e2fed5ed9eb
 
 -----------------------------------------------------------
 ### Curiosidades🥳
@@ -26,6 +37,7 @@ Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em info
 * [Instagram](https://www.instagram.com/klugee.mc/)
 * [Twitter](https://twitter.com/klugeemc)
 
+<<<<<<< HEAD
 -----------------------------------
 ### Contatos☎️
 * Email acadêmico: maria.kluge@acad.ufsm.br
@@ -45,6 +57,13 @@ Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em info
 ------------------------------------------
 ### Filmes e séries favoritos📺
 >Palavras são, na minha humilde opinião, nossa fonte inesgotável de magia.
+=======
+### Como me achar
+* Email acadêmico: maria.kluge@acad.ufsm.br
+* Email pessoal: klugemariaclara200@gmail.com
+
+![](http://media.tumblr.com/tumblr_m6m78cZAYc1rni1ka.gif)
+>>>>>>> 362a3f39b03b9316f4800f6ef87b3e2fed5ed9eb
 
 ![](https://media4.giphy.com/media/26BRzozg4TCBXv6QU/200.gif)
 * Harry Potter
