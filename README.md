@@ -2,7 +2,7 @@
 
 ![](http://pa1.narvii.com/6767/723fb59181b6fe8e6c0bd07de086e385b9c20d2c_00.gif)
 
-Olá, meu nome é Maria Clara, tenho 15 anos e estou cursando o técnico em informática para internet no CTISM|UFSM, sou de Agudo/RS.
+Olá, meu nome é Maria Clara, tenho 17 anos e estou cursando o técnico em informática para internet no CTISM|UFSM, sou de Agudo/RS.
 
 ---------------------------------------------
 ### Meus hobbies💕
