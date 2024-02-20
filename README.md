@@ -8,7 +8,7 @@
 * Criação e implementação de banco de dados utilizando o MySQL
 * Projetos simples utilizando arduino 
 -----------------------------------------------------------
-## Contatos☎
+## Contatos
 * Email acadêmico: maria.kluge@acad.ufsm.br
 * Email pessoal: klugeemc@gmail.com
 * Linkedin: https://www.linkedin.com/in/maria-clara-kluge-438856256/
