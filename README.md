@@ -1,5 +1,5 @@
 
-### Oi, meu nome é Maria Clara,estou cursando Sistemas de Infromação na Universidade Federal de Santa Maria.
+### Oi, meu nome é Maria Clara, estou cursando Sistemas de Informação na Universidade Federal de Santa Maria.
 <div style="display: inline_block"><br>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
